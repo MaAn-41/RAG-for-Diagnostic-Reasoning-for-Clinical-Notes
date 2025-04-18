@@ -12,7 +12,7 @@ This project implements an AI-powered medical assistant that mimics a real docto
 ## 🛠️ Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/sufyanbinimran/RAG-for-Diagnostic-Reasoning-for-Clinical-Notes.git
+   git clone https://github.com/MaAn-41/RAG-for-Diagnostic-Reasoning-for-Clinical-Notes.git
    cd RAG-for-Diagnostic-Reasoning-for-Clinical-Notes
    ```
 2. **Install Dependencies:**
@@ -33,7 +33,7 @@ This project implements an AI-powered medical assistant that mimics a real docto
 
 ## 🔗 Live Demo & Blog
 - 🌐 **Live Demo:** [Streamlit App](https://rag-for-diagnostic-reasoning-for-clinical-notes-bspwfhgsmt8mkj.streamlit.app/)
-- 📖 **Blog Post:** [Medium Article](https://medium.com/@sufyanbinimran/rag-for-diagnostic-reasoning-for-clinical-notes-direct-a9cf31cb263a)
+- 📖 **Blog Post:** [Medium Article](https://medium.com/@usmanamjad495/rag-for-diagnostic-reasoning-for-clinical-notes-direct-ed2c208504b9)
 
 ## 📜 License
 This project is open-source under the MIT License.
@@ -42,4 +42,4 @@ This project is open-source under the MIT License.
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
 
 ## 📧 Contact
-For queries, reach out at [sufyanbinimran](https://github.com/sufyanbinimran).
+For queries, reach out at [Muhammad Usman Aziz](https://github.com/MaAn-41/).
